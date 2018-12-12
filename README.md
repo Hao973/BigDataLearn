@@ -13,4 +13,5 @@ big data learn record
 * Learn Resource Web
   * http://dblab.xmu.edu.cn/blog/290-2/
 * Learn Code Example
-  * hadoop folder: Read and Write HDFS File by Java
+  * hadoop folder
+    * Read and Write HDFS File by Java
