@@ -7,6 +7,8 @@ big data learn record
   * http://hadoop.apache.org/
 * Learn Resource Web
   * http://dblab.xmu.edu.cn/blog/285/
+* Eciplse Install
+  * https://jingyan.baidu.com/article/ac6a9a5e2f1a7a2b653eac3f.html
 ## 1.2 Hadoop HDFS 
 * Learn Resource Web
   * http://dblab.xmu.edu.cn/blog/290-2/
