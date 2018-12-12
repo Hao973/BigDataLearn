@@ -1,6 +1,6 @@
 # BigDataLearn
 big data learn record
-
+## [WikiHome](https://github.com/Hao973/BigDataLearn/wiki)
 # 1 Hadoop Learn
 ## 1.1 Hadoop Install 
 * Hadoop Web
@@ -13,5 +13,5 @@ big data learn record
 * Learn Resource Web
   * http://dblab.xmu.edu.cn/blog/290-2/
 * Learn Code Example
-  * hadoop folder
+  * hdfs folder
     * Read and Write HDFS File by Java
