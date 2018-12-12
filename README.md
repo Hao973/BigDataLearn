@@ -10,5 +10,5 @@ big data learn record
 ## 1.2 Hadoop HDFS 
 * Learn Source Web
   * http://dblab.xmu.edu.cn/blog/290-2/
-* Learn Code Excample
-  * hadoop 
+* Learn Code Example
+  * hadoop folder
