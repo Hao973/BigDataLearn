@@ -15,3 +15,8 @@ big data learn record
 * Learn Code Example
   * hdfs folder
     * Read and Write HDFS File by Java
+## 1.3 Hadoop HBase
+* Learn Resource Web
+  * http://dblab.xmu.edu.cn/blog/install-hbase/
+* Learn Code Example
+  * HBase Operate By Java Example
